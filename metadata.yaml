@@ -1,0 +1,29 @@
+_repo: The-Big-Cave-Early-History-and-Authentic-Facts-Concerning-the-History-and-Discovery-of-the-Wo__67800
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Long, Abijah
+    gutenberg_agent_id: '54465'
+    url: http://www.gutenberg.org/2009/agents/54465
+  - agent_name: Long, Joe N.
+    gutenberg_agent_id: '54466'
+    url: http://www.gutenberg.org/2009/agents/54466
+description: ''
+gutenberg_issued: '2022-04-08'
+identifiers:
+  gutenberg: '67800'
+language: en
+pgterms:marc905: 20200826225625long
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, Tom Cosmas and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :Cushman Publications,1956,copyright 1958.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Big Cave: Early History and Authentic Facts Concerning the History and
+  Discovery of the World Famous Carlsbad Caverns of New Mexico'
+url: http://www.gutenberg.org/ebooks/67800
