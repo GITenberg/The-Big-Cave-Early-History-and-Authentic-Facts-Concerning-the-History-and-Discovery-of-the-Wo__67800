@@ -1,5 +1,8 @@
 _repo: The-Big-Cave-Early-History-and-Authentic-Facts-Concerning-the-History-and-Discovery-of-the-Wo__67800
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67800-h/images/back_cover.png
 creator:
   authors:
   - agent_name: Long, Abijah
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54466'
     url: http://www.gutenberg.org/2009/agents/54466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67800#The-Big-Cave-Early-History-and-Authentic-Facts-Concerning-the-History-and-Discovery-of-the-Wo_
 gutenberg_issued: '2022-04-08'
 identifiers:
   gutenberg: '67800'
